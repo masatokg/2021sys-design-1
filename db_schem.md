@@ -1,6 +1,6 @@
 # データベース詳細
 
-
+```uml
 @startuml
 
 /'
@@ -118,7 +118,7 @@ items          }o-le-||     category
 
 
 @enduml
-
+```uml
 
 
 
